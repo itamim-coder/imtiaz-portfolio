@@ -101,7 +101,7 @@ const MyProject = () => {
         </div>
       ),
     },
-    // Add more tabs if needed...
+  
   ];
 
   return (

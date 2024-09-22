@@ -35,7 +35,7 @@ const ProjectCard = ({
   const technologyImages = technology
     ?.map((tech) => technologyImageMap[tech])
     .filter(Boolean); // Filter out undefined images
-  console.log(id);
+
   return (
     <div className="rounded-xl">
       <div

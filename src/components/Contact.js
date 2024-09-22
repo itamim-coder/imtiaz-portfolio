@@ -67,7 +67,7 @@ const Contact = () => {
           <input
             type="hidden"
             name="_next"
-            value="http://localhost:3000/thanks"
+            value="https://imtiaz-tamim.vercel.app/thanks"
           ></input>
           <button type="submit">Send</button>
           {error && "Error"}
